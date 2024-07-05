@@ -1,11 +1,15 @@
 Name : AYUSH KUMAR
 Company : CODTECH IT SOLUTIONS
 ID : CT6WDS66
-Domain : WEB DEVELOPMENT
+Domain : WEB DEVELOPMENT 
+Duration : 1st JUNE 2024 to 13Th JULY 2024
 
 ## Project Overview
 
 ![image](https://github.com/INSVikrant54/CODTECH-Task_1/assets/170170307/84515d05-909f-45a0-b2e0-f031072058ef)
+
+![image](https://github.com/INSVikrant54/CODTECH-Task_1/assets/170170307/a6226031-0818-47a7-b1d6-9551ca3e7db0)
+
 
 A simple, user-friendly web application that allows users to manage their tasks by adding and removing items from a to-do list.
 
