@@ -1,4 +1,11 @@
+Name : AYUSH KUMAR
+Company : CODTECH IT SOLUTIONS
+ID : CT6WDS66
+Domain : WEB DEVELOPMENT
+
+
 ## Project Overview
+
 A simple, user-friendly web application that allows users to manage their tasks by adding and removing items from a to-do list.
 
 The Web Application is created by [Ayush Kumar](https://www.linkedin.com/in/insvikrant54/) using HTML, CSS & JavaScript.
