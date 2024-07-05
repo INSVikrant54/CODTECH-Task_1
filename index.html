@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/js/all.min.js" integrity="sha512-u3fPA7V8qQmhBPNT5quvaXVa1mnnLSXUep5PS1qo5NRzHwG19aHmNJnj1Q8hpA/nBWZtZD4r4AX6YOt5ynLN2g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <!-- <div class="screen">
+        <img src="background.png" alt="">
+    </div> -->
+    <!-- <section> -->
+
+        <div class="toggle-buttons">
+            <button class="theme sun" onclick="toggleLightMode()"><i class="fas fa-sun"></i></button>
+            <button class="theme dark" onclick="toggleDarkMode()"><i class="fas fa-moon"></i></button>
+        </div>
+        <div class="app">
+        <h1>To-Do List</h1>
+            <form id="todo-form">
+                <input type="text" id="new-task" placeholder="Add a new task" required>
+                <button id="submit" type="submit">Add Task</button>
+            </form>
+            <ul id="todo-list"></ul>
+        </div>
+    <!-- </section> -->
+    <script src="scripts.js"></script>
+</body>
+</html>
