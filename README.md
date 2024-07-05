@@ -3,10 +3,9 @@ Company : CODTECH IT SOLUTIONS
 ID : CT6WDS66
 Domain : WEB DEVELOPMENT
 
-
-![image](https://github.com/INSVikrant54/CODTECH-Task_1/assets/170170307/3f225225-751c-45d5-966d-b7876a761674)
-
 ## Project Overview
+
+![image](https://github.com/INSVikrant54/CODTECH-Task_1/assets/170170307/84515d05-909f-45a0-b2e0-f031072058ef)
 
 A simple, user-friendly web application that allows users to manage their tasks by adding and removing items from a to-do list.
 
