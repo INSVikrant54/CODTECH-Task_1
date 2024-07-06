@@ -6,9 +6,11 @@ Duration : 1st JUNE 2024 to 13Th JULY 2024
 
 ## Project Overview
 
-![image](https://github.com/INSVikrant54/CODTECH-Task_1/assets/170170307/84515d05-909f-45a0-b2e0-f031072058ef)
+![image](https://github.com/INSVikrant54/CODTECH-Task_1/assets/170170307/84e871c9-6c67-46ba-800e-a8601b4d06ce)
+![image](https://github.com/INSVikrant54/CODTECH-Task_1/assets/170170307/96ca5ef1-e1f2-401e-badd-c6a063760db7)
+![image](https://github.com/INSVikrant54/CODTECH-Task_1/assets/170170307/6ffac4bf-c5c2-4dab-8672-8082c0e9cfc7)
 
-![image](https://github.com/INSVikrant54/CODTECH-Task_1/assets/170170307/a6226031-0818-47a7-b1d6-9551ca3e7db0)
+
 
 
 A simple, user-friendly web application that allows users to manage their tasks by adding and removing items from a to-do list.
